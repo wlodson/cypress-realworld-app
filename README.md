@@ -2,6 +2,10 @@
   <img alt="Cypress Real World App Logo" src="./src/svgs/rwa-logo.svg" />
 </p>
 
+
+
+
+
 <p align="center">
   <a href="https://cypress.io">
     <img width="140" alt="Cypress Logo" src="./src/svgs/built-by-cypress.svg" />
